@@ -1,5 +1,6 @@
 // Copyright 2013 Apcera Inc. All rights reserved.
 
+//go:build ignore
 // +build ignore
 
 package main
@@ -8,7 +9,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/scylladb/termtables/term"
+	"github.com/xbclub/termtables/term"
 )
 
 func main() {
